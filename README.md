@@ -27,10 +27,7 @@ Para facilitar la ingesta y preparación de los datos sin depender de un servido
 * **Detección automática de esquemas:** Utiliza la función `read_csv_auto()` de DuckDB para inferir automáticamente los tipos de datos (fechas, enteros, flotantes) e importar los datos sin necesidad de definir el esquema manualmente.
 * **Creación de tablas:** Genera o reemplaza automáticamente cada tabla en la base de datos DuckDB usando el nombre de su archivo fuente.
 
-#### Cómo ejecutar el script de carga
 
-```bash
-python main.py
 
 ## 🛠️ Tecnologías y Herramientas
 
