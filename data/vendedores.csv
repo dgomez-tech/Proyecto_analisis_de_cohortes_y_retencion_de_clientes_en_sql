@@ -1,0 +1,11 @@
+id,nombre,equipo,categoria,ventas
+1,Ana García,Norte,Electrónica,5000
+2,Luis Martín,Norte,Electrónica,5000
+3,Eva López,Norte,Hogar,4200
+4,Juan Ruiz,Sur,Hogar,8000
+5,Sara Díaz,Sur,Ropa,6500
+6,Pablo Soto,Sur,Deportes,3800
+7,Marta Vega,Este,Electrónica,7200
+8,Carlos Roca,Este,Libros,3800
+9,Lucía Mora,Oeste,Ropa,5900
+10,Diego Ríos,Oeste,Deportes,4500

@@ -1,0 +1,18 @@
+# Entorno Virtual de Python
+venv/
+.venv/
+env/
+
+# Archivos pesados / Base de Datos local
+*.duckdb
+*.duckdb.wal
+
+# Configuración del Editor e IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
